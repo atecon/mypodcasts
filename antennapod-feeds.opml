@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>AntennaPod Subscriptions</title>
+    <dateCreated>02 Feb 19 11:45:09 +0100</dateCreated>
+  </head>
+  <body>
+    <outline text="#heiseshow (Audio)" title="#heiseshow (Audio)" type="rss" xmlUrl="https://www.heise.de/heiseshow.rss" htmlUrl="https://www.heise.de/heiseshow.rss" />
+    <outline text="Alternativlos" title="Alternativlos" type="rss" xmlUrl="http://www.alternativlos.org/ogg.rss" htmlUrl="http://www.alternativlos.org/" />
+    <outline text="Aufwachen!" title="Aufwachen!" type="rss" xmlUrl="http://feed.aufwachen-podcast.de/opus" htmlUrl="https://aufwachen-podcast.de" />
+    <outline text="Chaosradio" title="Chaosradio" type="rss" xmlUrl="http://chaosradio.ccc.de/chaosradio-latest.rss" htmlUrl="https://chaosradio.de" />
+    <outline text="Das Thema" title="Das Thema" type="rss" xmlUrl="https://podcasts.sueddeutsche.de/podcast/2171-das-thema-der-podcast-der-suddeutschen-zeitung/feed/mp3" htmlUrl="http://www.sueddeutsche.de/thema/Das_Thema" />
+    <outline text="DataFramed" title="DataFramed" type="rss" xmlUrl="https://feeds.buzzsprout.com/147669.rss" htmlUrl="https://www.datacamp.com/community/podcast" />
+    <outline text="Dittsche - Das wirklich wahre Leben" title="Dittsche - Das wirklich wahre Leben" type="rss" xmlUrl="https://www1.wdr.de/mediathek/video/podcast/channel-dittsche-100.podcast" htmlUrl="https://www1.wdr.de/mediathek/video/podcast/channel-dittsche-100.html" />
+    <outline text="Dittsche - Das wirklich wahre Leben" title="Dittsche - Das wirklich wahre Leben" type="rss" xmlUrl="https://www1.wdr.de/mediathek/video/podcast/channel-dittsche-100.podcast" htmlUrl="https://www1.wdr.de/mediathek/video/podcast/channel-dittsche-100.html" />
+    <outline text="Eine Stunde History  - Deutschlandfunk Nova" title="Eine Stunde History  - Deutschlandfunk Nova" type="rss" xmlUrl="https://www.deutschlandfunknova.de/podcast/eine-stunde-history" htmlUrl="http://www.deutschlandfunknova.de/eine-stunde-history" />
+    <outline text="Eine Stunde History  - Deutschlandfunk Nova" title="Eine Stunde History  - Deutschlandfunk Nova" type="rss" xmlUrl="https://www.deutschlandfunknova.de/podcast/eine-stunde-history" htmlUrl="http://www.deutschlandfunknova.de/eine-stunde-history" />
+    <outline text="Forschergeist" title="Forschergeist" type="rss" xmlUrl="http://forschergeist.de/feed/mp3/" htmlUrl="http://forschergeist.de" />
+    <outline text="Hintergrund - Deutschlandfunk" title="Hintergrund - Deutschlandfunk" type="rss" xmlUrl="http://www.deutschlandfunk.de/podcast-hintergrund.725.de.podcast.xml" htmlUrl="http://www.deutschlandfunk.de/hintergrund.723.de.html" />
+    <outline text="Intercepted with Jeremy Scahill" title="Intercepted with Jeremy Scahill" type="rss" xmlUrl="http://feeds.feedburner.com/InterceptedWithJeremyScahill" htmlUrl="https://theintercept.com/podcasts" />
+    <outline text="Jung &amp; Naiv" title="Jung &amp; Naiv" type="rss" xmlUrl="http://www.jungundnaiv-podcast.de/feed/mp3/" htmlUrl="http://www.jungundnaiv-podcast.de" />
+    <outline text="Lage der Nation - der Politik-Podcast aus Berlin" title="Lage der Nation - der Politik-Podcast aus Berlin" type="rss" xmlUrl="https://www.kuechenstud.io/lagedernation/feed/mp3/" htmlUrl="https://www.kuechenstud.io/lagedernation" />
+    <outline text="Learning Machines 101" title="Learning Machines 101" type="rss" xmlUrl="http://learningmachines101.libsyn.com/rss" htmlUrl="http://www.learningmachines101.com" />
+    <outline text="Machine Learning for Physicists 2017 (Audio)" title="Machine Learning for Physicists 2017 (Audio)" type="rss" xmlUrl="http://feeds.video.uni-erlangen.de/course/itunesu/574/Audio" htmlUrl="http://www.video.uni-erlangen.de" />
+    <outline text="Machine Learning Guide" title="Machine Learning Guide" type="rss" xmlUrl="http://machinelearningguide.libsyn.com/rss" htmlUrl="http://ocdevel.com/mlg" />
+    <outline text="Making Sense with Sam Harris" title="Making Sense with Sam Harris" type="rss" xmlUrl="http://wakingup.libsyn.com/rss" htmlUrl="http://www.samharris.org" />
+    <outline text="NDR Info - Das Forum" title="NDR Info - Das Forum" type="rss" xmlUrl="https://www.ndr.de/info/podcast2990.xml" htmlUrl="https://www.ndr.de/info/podcast2990.html" />
+    <outline text="NDR Info - Paradise Papers: Im Schattenreich der Steueroasen" title="NDR Info - Paradise Papers: Im Schattenreich der Steueroasen" type="rss" xmlUrl="https://www.ndr.de/podcast/podcast4360.xml" htmlUrl="https://www.ndr.de/info/podcast4360.html" />
+    <outline text="NDR Info - Redezeit" title="NDR Info - Redezeit" type="rss" xmlUrl="https://www.ndr.de/info/podcast4124.xml" htmlUrl="https://www.ndr.de/info/podcast4124.html" />
+    <outline text="piqd Thema" title="piqd Thema" type="rss" xmlUrl="https://podcast.piqd.de/feed/mp3/" htmlUrl="https://podcast.piqd.de" />
+    <outline text="Resonator" title="Resonator" type="rss" xmlUrl="http://resonator-podcast.de/feed/m4a/" htmlUrl="https://resonator-podcast.de" />
+    <outline text="Sascha Lobo – Der Debatten-Podcast von SPIEGEL ONLINE" title="Sascha Lobo – Der Debatten-Podcast von SPIEGEL ONLINE" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:319180361/sounds.rss" htmlUrl="http://www.spiegel.de/thema/sascha_lobo_podcast/" />
+    <outline text="Sternengeschichten" title="Sternengeschichten" type="rss" xmlUrl="http://feeds.feedburner.com/sternengeschichten" htmlUrl="http://scienceblogs.de/astrodicticum-simplex/sternengeschichten/" />
+    <outline text="Stimmenfang – Der Politik-Podcast von SPIEGEL ONLINE" title="Stimmenfang – Der Politik-Podcast von SPIEGEL ONLINE" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:284192316/sounds.rss" htmlUrl="http://www.spiegel.de/thema/stimmenfang_podcast/" />
+    <outline text="SWR2 Essay" title="SWR2 Essay" type="rss" xmlUrl="http://www1.swr.de/podcast/xml/swr2/essay.xml" htmlUrl="http://www.swr.de/swr2/essay/index.html" />
+    <outline text="SWR2 Forum" title="SWR2 Forum" type="rss" xmlUrl="http://www1.swr.de/podcast/xml/swr2/forum.xml" htmlUrl="http://www.swr2.de/forum" />
+    <outline text="SWR2 Wissen" title="SWR2 Wissen" type="rss" xmlUrl="http://www1.swr.de/podcast/xml/swr2/wissen.xml" htmlUrl="http://www.swr.de/swr2/wissen/index.html" />
+    <outline text="The Naked Scientists Podcast" title="The Naked Scientists Podcast" type="rss" xmlUrl="https://www.thenakedscientists.com/naked_scientists_podcast.xml" htmlUrl="http://www.thenakedscientists.com" />
+    <outline text="This Week in Google (MP3)" title="This Week in Google (MP3)" type="rss" xmlUrl="http://leo.am/podcasts/twig" htmlUrl="https://twit.tv/shows/this-week-in-google" />
+    <outline text="This Week in Machine Learning &amp; Artificial Intelligence (AI) Podcast" title="This Week in Machine Learning &amp; Artificial Intelligence (AI) Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/twimlai" htmlUrl="https://twimlai.com" />
+  </body>
+</opml>
